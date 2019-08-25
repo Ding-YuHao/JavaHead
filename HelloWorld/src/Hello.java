@@ -1,6 +1,5 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("I rule!");
-        System.out.println("THe world");
+        int[] a = new int[]{1, 2, 3, 4, 5};
     }
 }
