@@ -49,6 +49,7 @@ public class GuessGame {
                 System.out.println("player three got it right" + p3isRight);
                 System.out.println("Game is over.");
                 break;
+
             }else{
                 System.out.println("Player will have to try again.");
             }
