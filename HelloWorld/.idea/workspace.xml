@@ -42,14 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Fibonacci">
-    <configuration name="BeerSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BeerSong" />
-      <module name="HelloWorld" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PoorDogTestDrive">
     <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dog" />
       <module name="HelloWorld" />
@@ -64,15 +57,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loopy" />
+    <configuration name="GoodDogTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GoodDogTestDrive" />
       <module name="HelloWorld" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="PoorDogTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PoorDogTestDrive" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2Drive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test2Drive" />
       <module name="HelloWorld" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PoorDogTestDrive" />
+        <item itemvalue="Application.GoodDogTestDrive" />
+        <item itemvalue="Application.Test2Drive" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.BeerSong" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Loopy" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +100,7 @@
       <updated>1566646788701</updated>
       <workItem from="1566646791771" duration="26919000" />
       <workItem from="1566783300217" duration="19856000" />
-      <workItem from="1567045924207" duration="8789000" />
+      <workItem from="1567045924207" duration="16807000" />
     </task>
     <servers />
   </component>
